@@ -10,6 +10,9 @@
 **/build/
 **/.vite/
 
+# Runtime uploads
+server/uploads/
+
 # Editor
 **/.vscode/
 
