@@ -1,0 +1,15 @@
+.DS_Store
+**/.DS_Store
+
+# Node / Expo
+**/node_modules/
+**/.expo/
+**/dist/
+**/.turbo/
+**/.next/
+**/build/
+**/.vite/
+
+# Editor
+**/.vscode/
+
